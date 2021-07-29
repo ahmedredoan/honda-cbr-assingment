@@ -1,0 +1,17 @@
+.header-bg {
+    background-color: #264653;
+  }
+  
+  .img-gray {
+    filter: grayscale(100%);
+  }
+  .fa-rating {
+    color: #bd5214;
+  }
+  .client-text-color {
+    color: #e76f51;
+  }
+  .icon-color {
+    color: red;
+    text-align: center;
+  }
